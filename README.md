@@ -31,6 +31,10 @@ Welcome to my repository for core Python development! This repository tracks my 
   * **Concepts Used:** Tuples and lists for data structuring, `for` and `while` loops, input validation, conditional logic, and parallel sequence tracking.
   * **File:** `quiz_game.ipynb`
 
+**Food Ordering System**
+  * **Description:** A terminal-based food ordering and checkout system that dynamically presents a priced menu using dictionaries, handles user input validation, manages cart quantities, and computes an itemized final bill.
+  * **Concepts Used:** Dictionaries for key-value data lookups, `while` loops, exception handling (`try-except`), dynamic string formatting, and cart aggregation.
+  * **File:** `food_ordering_system.ipynb`
 ---
 
 ## 🛠️ Skills Covered
