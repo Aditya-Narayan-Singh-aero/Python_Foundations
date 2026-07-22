@@ -26,6 +26,11 @@ Welcome to my repository for core Python development! This repository tracks my 
   * **Concepts Used:** While loops, user input validation, lists, parallel iteration via `zip()`, and string formatting.
   * **File:** `shopping_cart.ipynb`
 
+* **Python Quiz Game**
+  * **Description:** An interactive terminal-based trivia game that tests users on science fundamentals, handles user input validation with infinite loops, tracks scores, and displays a comprehensive summary of correct answers versus user guesses.
+  * **Concepts Used:** Tuples and lists for data structuring, `for` and `while` loops, input validation, conditional logic, and parallel sequence tracking.
+  * **File:** `quiz_game.ipynb`
+
 ---
 
 ## 🛠️ Skills Covered
