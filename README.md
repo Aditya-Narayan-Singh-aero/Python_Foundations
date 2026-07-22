@@ -14,12 +14,17 @@ Welcome to my repository for core Python development! This repository tracks my 
 * **Aircraft Performance Analysis**
   * **Description:** A flight dynamics tool that calculates essential performance metrics, including range, endurance, center of gravity, and kinematic motion for an aircraft.
   * **Concepts Used:** Modular function-based structure, physical modeling, and kinematic equations.
-  * **File:** `aircraft_performance_analysis.ipynb`
+  * **File:** `aircraft_performance_analysis.py`
 
 * **CLI Countdown Timer**
   * **Description:** A robust, interactive countdown timer that converts total seconds into a formatted `HH::MM::SS` clock layout with zero-padding.
   * **Concepts Used:** Time manipulation modules, arithmetic operators (modulo and integer division), conditional loops, and string formatting (f-strings).
   * **File:** `python-countdown-timer.ipynb`
+
+* **Interactive Shopping Cart**
+  * **Description:** A terminal-based shopping cart system that tracks items, unit prices, and quantities to calculate total batch costs and display a formatted receipt.
+  * **Concepts Used:** While loops, user input validation, lists, parallel iteration via `zip()`, and string formatting.
+  * **File:** `shopping_cart.ipynb`
 
 ---
 
@@ -30,6 +35,7 @@ Welcome to my repository for core Python development! This repository tracks my 
 * Functional Programming Fundamentals
 * Physics-based Computational Logic
 * Time Management & String Formatting
+* Data Collection & Iteration (Lists, Zip)
 * Version Control via Git & GitHub
 
 ---
