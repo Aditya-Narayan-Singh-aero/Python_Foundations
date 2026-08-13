@@ -36,8 +36,8 @@ Welcome to my repository for core Python development! This repository tracks my 
   * **Concepts Used:** Dictionaries for key-value data lookups, `while` loops, exception handling (`try-except`), dynamic string formatting, and cart aggregation.
   * **File:** `food_ordering_system.ipynb`
 
-* **Number Guessing Game**[cite: 1]
-  * **Description:** An interactive terminal game where players try to guess a randomly generated number within a specific range, complete with input validation and guess tracking[cite: 1].
+* **Number Guessing Game**
+  * **Description:** An interactive terminal game where players try to guess a randomly generated number within a specific range, complete with input validation and guess tracking.
   * **Concepts Used:** Random module generation, `while` loops, conditional branching (`if/elif/else`), string methods (`isdigit()`), and dynamic f-strings[cite: 1].
   * **File:** `Python number guessing game.py`
 
